@@ -10,3 +10,8 @@ This program calculates the total fare based on distance and number of passenger
 - Output: Passenger name and total fare in Philippine pesos.
 - Does not include input validation.
   
+## Version 2 – With Validation
+- Input: Passenger name, distance in kilometers, and number of passengers.
+- Process: Multiplies the distance by the fare rate of PHP 14 and the number of passengers.
+- Output: Passenger name and total fare in Philippine pesos.
+- Now includes input validation.
